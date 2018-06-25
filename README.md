@@ -4,10 +4,10 @@
 In this project I created a Kalman filter and Extended Kalman filter to predict and estimate the state of a moving object of interest with noisy lidar and radar measurements for the sensor fusion in self-driving car.
 
 [//]: # (Image References)
-[image1]: ./Docs/Dataset1_EKF_Results.png
-[image2]: ./Docs/Dataset2_EKF_Results.png
-[image3]: ./Docs/ProcessFlow.png
-[image4]: ./Docs/JacobianMatrix.png
+[image1]: ./Docs/Dataset1_EKF_Results.PNG
+[image2]: ./Docs/Dataset2_EKF_Results.PNG
+[image3]: ./Docs/ProcessFlow.PNG
+[image4]: ./Docs/JacobianMatrix.PNG
 The c++ code is sucessfully built and run on "Bash on Ubuntun on Window" CLI environment. The created EntedecKF program is able to connected with Term 2 Simulator. 
 
 The RMS for px, py, vx and vy for the dataset 1 is: 0.0955, 0.0850, 0.4293, 0.4184.
